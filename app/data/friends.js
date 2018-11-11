@@ -1,7 +1,7 @@
 let friends = [
 {
-  "name":"Junkrat",
-  "photo":"https://vignette.wikia.nocookie.net/overwatch/images/5/53/Junkrat_portrait.png/revision/latest/scale-to-width-down/342?cb=20160429040823",
+  "name":"Tiki",
+  "photo":"http://ssref.net/scripts/image_resize.cgi?min=200&url=https://d395i9ljze9h3x.cloudfront.net/req/20180910/images/headshots/BarbTi00_2017.jpg",
   "scores":[
       5,
       4,
@@ -11,8 +11,8 @@ let friends = [
     ] 
 },
 {
-  "name":"Widow Maker",
-  "photo":"https://vignette.wikia.nocookie.net/overwatch/images/1/16/Widowmaker_portrait.png/revision/latest/scale-to-width-down/350?cb=20160429041501",
+  "name":"Eli",
+  "photo":"http://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/5526.png&w=350&h=254",
   "scores":[
       1,
       5,
@@ -22,8 +22,8 @@ let friends = [
     ]
 },
 {
-  "name":"Winston",
-  "photo":"https://i.ytimg.com/vi/qJcKQd7HFJM/maxresdefault.jpg",
+  "name":"Odell",
+  "photo":"http://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/16733.png&w=350&h=254",
   "scores":[
       1,
       3,
@@ -33,8 +33,8 @@ let friends = [
     ]
 },
 {
-  "name":"Zenyatta",
-  "photo":"https://vignette.wikia.nocookie.net/overwatch/images/f/f5/Zenyatta_portrait.png/revision/latest/scale-to-width-down/350?cb=20160429042336",
+  "name":"Strahan",
+  "photo":"https://media.gq.com/photos/558318493655c24c6c95a22b/master/w_800/gq-features-090108-GQfeature6v.jpg",
   "scores":[
       1,
       4,
@@ -44,8 +44,8 @@ let friends = [
     ]
 },
 {
-  "name":"Hammond",
-  "photo":"https://media0dk-a.akamaihd.net/79/20/ae90136dbed3417d427b26551b96671b.jpeg",
+  "name":"Phil",
+  "photo":"https://thumbs.mic.com/YzI1YmMxZDdhMyMvZllqc3h6VElSb0Q1aFRVcGpEWXhBc1h5b1FZPS8weDE4MToyOTM4eDE2OTgvODAweDQ1MC9maWx0ZXJzOmZvcm1hdChqcGVnKTpxdWFsaXR5KDgwKS9odHRwczovL3MzLmFtYXpvbmF3cy5jb20vcG9saWN5bWljLWltYWdlcy81czdzcjdhdzBrZG55d3FscmRsaXdweXltcG9oeGt6ZGpvZGxpeXR1dGtzbnJub3MzbXN1YW90Z2hzY3VtZXB4LmpwZw.jpg",
   "scores":[
       5,
       5,
@@ -55,8 +55,8 @@ let friends = [
     ]
 },
 {
-  "name":"Brigette",
-  "photo":"https://d1u5p3l4wpay3k.cloudfront.net/overwatch_gamepedia/thumb/8/8a/Brigitte_Concept.png/255px-Brigitte_Concept.png?version=46c36e2c1e9ba16db5697729a25b676c",
+  "name":"LT",
+  "photo":"https://usatthebiglead.files.wordpress.com/2018/07/usatsi_5457702_153192880_lowres-e1532630790776.jpg?w=1000&h=600&crop=1?w=1000&crop=0",
   "scores":[
       1,
       1,
